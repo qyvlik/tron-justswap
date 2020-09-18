@@ -9,3 +9,6 @@
 
 *.env
 *.DS_Store
+
+bin
+lib
