@@ -10,6 +10,15 @@ https://tronscan.org/#/contract/TQn9Y2khEsLJW1ChVWFMSMeRDow5KcbLSE/code
 npm install -g truffle
 ```
 
+- `truffle init` ：初始化工程
+
+### install
+
+```bash
+npm install -g ganache-cli
+```
+
+- `ganache-cli`: 启动内存态的 eth 节点
 
 
 ## ref
